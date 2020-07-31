@@ -1,0 +1,22 @@
+{
+  "name": "toyreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.7.1",
+    "@typescript-eslint/parser": "^3.7.1",
+    "eslint": "^7.5.0",
+    "eslint-plugin-react": "^7.20.5",
+    "ts-loader": "^8.0.1",
+    "typescript": "^3.9.7",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
