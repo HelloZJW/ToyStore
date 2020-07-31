@@ -1,1 +1,4 @@
-document.write("Hello World");
+export const ToyReact = {
+  createElement() {},
+  render() {},
+};
