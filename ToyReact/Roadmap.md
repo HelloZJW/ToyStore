@@ -2,7 +2,7 @@
 
 - [x] Support ts
 - [ ] Render ui with real dom
-  - [ ] Element
+  - [x] Element
   - [ ] Component
 - [ ] Props, event and state
 - [ ] Virtual dom
