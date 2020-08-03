@@ -1,11 +1,10 @@
 # Roadmap
 
 - [x] Support ts
-- [ ] Render ui with real dom
+- [x] Render ui with reactlike api
   - [x] Element
-  - [ ] Component
+  - [x] Component
 - [ ] Props, event and state
-- [ ] Virtual dom
 - [ ] Virtual dom partial update ( simple implemention)
 - [ ] Customize event
 - [ ] Improve performance of partial update algorithm
